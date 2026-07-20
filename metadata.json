@@ -1,0 +1,6 @@
+{
+  "name": "ARBER Tools",
+  "description": "Dutch Engineering Heritage · Powerful Hydraulic Equipment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
